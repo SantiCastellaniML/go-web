@@ -1,0 +1,10 @@
+go 1.21.7
+
+use (
+	./clases/02-CHI
+	./clases/03-POST/app
+	./clases/04-PACKAGES/app
+	./ejercicios/01-primerApi
+	./ejercicios/02-interactuandoApi/apiProducts
+	./ejercicios/04-packageStructure/apiProducts
+)
